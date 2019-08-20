@@ -1,6 +1,6 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
+  name: The Bluebird Two
+  tagline: DIY Indie/Folk duo from Atlanta, Georgia
   # seo_title:
   # seo_description:
   # contact_twitter_username:
@@ -9,14 +9,11 @@ artist:
 
 social:
   - name: Facebook
-    url: https://facebook.com
+    url: http://facebook.com/thebluebirdtwo
   - name: Instagram
-    url: https://instagram.com
-  - name: Twitter
-    url: https://twitter.com
-  - name: Youtube
-    url: https://youtube.com
+    url: http://instagram.com/thebluebirdtwo
+  - name: bandcamp
+    url: http://thebluebirdtwo.bandcamp.com/
   - name: Spotify
-    url: https://spotify.com
-
+    url: https://open.spotify.com/artist/3DUpMyQRofZal4rYRpDnxK?si=PDmCJRmBTU2bpPC1pT_6Lg
 site_language: en
