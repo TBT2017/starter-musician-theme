@@ -1,12 +1,12 @@
 - name: Wild Wing Cafe
-  date: "2019-08-31"
+  date: ! 2019-08-31
   location: Wild Wing Cafe, John's Creek GA
   # info_url and map_url are optional
   info_url: https://www.facebook.com/events/378335449546918/
   map_url: 
 
 - name: Crazy Love Coffee House
-  date: "2019-09-28"
+  date: !!str 2019-09-28
   location: Crazy Love Coffee House, Roswell GA
   info_url: https://www.facebook.com/events/2374201346236957/
 
