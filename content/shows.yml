@@ -1,8 +1,3 @@
-- name: Atlanta Brewing Company
-  date: 2019-09-21
-  location: Atlanta Brewing Company, Atlanta GA
-  info_url: https://www.facebook.com/events/379055466073657/
-
 - name: Crazy Love Coffee House
   date: 2019-09-28
   location: Crazy Love Coffee House, Roswell GA
@@ -17,6 +12,11 @@
   date: "2019-10-14"
   location: Red Clay Music Foundry, Duluth GA
   info_url: https://www.etix.com/ticket/p/2319333
+
+- name: Atlanta Brewing Company
+  date: 2019-11-02
+  location: Atlanta Brewing Company, Atlanta GA
+  info_url: 
 
 - name: Gate City Brewing Co
   date: "2019-11-09"
