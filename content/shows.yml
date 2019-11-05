@@ -1,8 +1,3 @@
-- name: Atlanta Brewing Company
-  date: 2019-11-02
-  location: Atlanta Brewing Company, Atlanta GA
-  info_url: https://www.facebook.com/events/502462683639162/
-
 - name: Gate City Brewing Co
   date: "2019-11-09"
   location: Gate City Brewing Co, Roswell GA
@@ -17,8 +12,3 @@
   date: "2019-12-07"
   location: Gate City Brewing Co, Roswell GA
   info_url: https://www.facebook.com/events/724771147937704/
-  
-- name: Hollis House Concert Series
-  date: "2019-12-15"
-  location: Hollis House, Chattanooga TN
-  info_url: https://www.facebook.com/events/677623133067264
