@@ -1,3 +1,23 @@
+- name: Broken Anchor Winery Grand Opening
+  date: "2020-01-31"
+  location: Broken Anchor Winery, Acworth GA
+  info_url: 
+
+- name: Gate City Brewing Co
+  date: "2020-02-09"
+  location: Gate City Brewing Co, Roswell GA
+  info_url: https://www.facebook.com/events/770359586788079/
+
+- name: Atlanta Brewing Company
+  date: "2020-02-14"
+  location: Atlanta Brewing Company, Atlanta GA
+  info_url: https://www.facebook.com/events/547309969189858/
+  
+- name: West Side Artisan Market
+  date: "2020-02-16"
+  location: West Side Artisan Market, Atlanta GA
+  info_url: https://www.facebook.com/events/2536219990032066/
+
 - name: Moon Roof Bar
   date: "2020-03-14"
   location: Moon Roof Bar, Rome GA
