@@ -1,23 +1,18 @@
-- name: Broken Anchor Winery Grand Opening
-  date: "2020-02-01"
-  location: Broken Anchor Winery, Acworth GA
-  info_url: https://www.facebook.com/events/1263713250505272/
-
 - name: Gate City Brewing Co
   date: "2020-02-10"
   location: Gate City Brewing Co, Roswell GA
   info_url: https://www.facebook.com/events/770359586788079/
-
-- name: Atlanta Brewing Company
-  date: "2020-02-15"
-  location: Atlanta Brewing Company, Atlanta GA
-  info_url: https://www.facebook.com/events/547309969189858/
   
 - name: West Side Artisan Market
   date: "2020-02-17"
   location: West Side Artisan Market, Atlanta GA
   info_url: https://www.facebook.com/events/2536219990032066/
   
+- name: Broken Anchor Winery
+  date: "2020-02-29"
+  location: Broken Anchor Winery, Acworth GA
+  info_url: https://www.facebook.com/events/182175986219956/
+
 - name: Center Street Tavern
   date: "2020-03-07"
   location: Center Street Tavern, Acworth GA
