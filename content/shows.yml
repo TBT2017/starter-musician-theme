@@ -1,19 +1,4 @@
-- name: Center Street Tavern
-  date: "2020-03-07"
-  location: Center Street Tavern, Acworth GA
-  info_url: https://www.facebook.com/events/2826720747371710/
-
-- name: Moon Roof Bar
-  date: "2020-03-14"
-  location: Moon Roof Bar, Rome GA
-  info_url: https://www.facebook.com/events/1355415547992821/
-
-- name: LTH Halcyon
-  date: "2020-03-21"
-  location: LTH @ Halcyon Forsyth, Alpharetta GA
-  info_url: https://www.facebook.com/events/196560891702461/
-  
-- name: Broken Anchor Winery
+- name: Live from Our Nest (virtual show)
   date: "2020-03-28"
-  location: Broken Anchor Winery, Acworth GA
+  location: Our Home
   info_url: https://www.facebook.com/events/182175986219956/ 
