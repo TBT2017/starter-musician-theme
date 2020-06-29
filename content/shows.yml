@@ -1,25 +1,20 @@
-- name: Live at Qualusi Vineyards
-  date: "2020-05-10"
-  location: Qualusi Vineyards
-  info_url: https://www.facebook.com/events/697299114379628/
+#- name: 
+#  date: 
+#  location: 
+#  info_url: 
 
-- name: The Beery Traveler (LIVE PODCAST)
-  date: "2020-06-20"
-  location: Acworth, GA
-  info_url: https://www.facebook.com/events/551656852167066/
-  
- - name: Live at Broken Anchor
-  date: "2020-06-27"
-  location: Acworth, GA
-  info_url: https://www.facebook.com/events/558548808189303/
-  
- - name: Live at Broken Anchor
-  date: "2020-07-05"
-  location: Acworth, GA
-  info_url: https://www.facebook.com/events/300429500962973/
-  
- - name: Live at Qualusi Vineyards
+- name: The Bluebird Two at Broken Anchor Winery
+  date: "2020-07-04"
+  location: Broken Anchor Winery, 3335 Cobb Parkway NW Ste 930, Acworth, Georgia 30101
+  info_url: https://www.facebook.com/events/300429500962973
+
+- name: The Bluebird Two Live!
+  date: "2020-07-18"
+  location: Broken Anchor Winery, 3335 Cobb Parkway NW Ste 930, Acworth, Georgia 30101
+  info_url: https://www.facebook.com/events/195283765136830
+
+- name: Live at Qualusi Vineyards
   date: "2020-07-26"
   location: Acworth, GA
   info_url: 
-  
+ 
