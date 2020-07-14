@@ -3,11 +3,6 @@
 #  location: 
 #  info_url: 
 
-- name: The Bluebird Two at Broken Anchor Winery
-  date: "2020-07-04"
-  location: Broken Anchor Winery, 3335 Cobb Parkway NW Ste 930, Acworth, Georgia 30101
-  info_url: https://www.facebook.com/events/300429500962973
-
 - name: The Bluebird Two Live!
   date: "2020-07-18"
   location: Broken Anchor Winery, 3335 Cobb Parkway NW Ste 930, Acworth, Georgia 30101
@@ -18,3 +13,7 @@
   location: Qualusi Vineyards, 440 Blossum Trail, Acworth, GA 30101
   info_url: https://www.facebook.com/events/267977621128413
  
+- name: Live at Center Street Tavern
+  date: "2020-08-08"
+  location: Center Street Tavern, 4381 Senator Russell Ave, Acworth, Georgia 30101
+  info_url: https://www.facebook.com/events/689631924934676/
