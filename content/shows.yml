@@ -3,22 +3,22 @@
 #  location: 
 #  info_url: 
 
-- name: The Bluebird Two Live!
-  date: "2020-07-18"
-  location: Broken Anchor Winery, 3335 Cobb Parkway NW Ste 930, Acworth, Georgia 30101
-  info_url: https://www.facebook.com/events/195283765136830
-
-- name: Live at Qualusi Vineyards
-  date: "2020-07-25"
-  location: Qualusi Vineyards, 440 Blossum Trail, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/267977621128413
-
-- name: Live at Printer's Ale 
-  date: "2020-08-01"
-  location: Printer's Ale Manufacturing Co. 940 Columbia Dr, Carrollton, Georgia 30117
-  info_url: https://www.facebook.com/events/897685374388163/
-
 - name: Live at Center Street Tavern
   date: "2020-08-08"
   location: Center Street Tavern, 4381 Senator Russell Ave, Acworth, Georgia 30101
+  info_url: https://www.facebook.com/events/689631924934676/
+
+- name: Sunset Sessions
+  date: "2020-08-09"
+  location: Park Tavern, 500 10th St NE, Atlanta, Georgia 30309
+  info_url: https://www.parktavern.com/sunsetsessions
+  
+- name: Live at Broken Anchor Winery
+  date: "2020-08-28"
+  location: Center Street Tavern, 4381 Senator Russell Ave, Acworth, Georgia 30101
+  info_url: https://www.facebook.com/events/3093148604109089/
+  
+- name: Live at LOTH Halcyon
+  date: "2020-08-29"
+  location: Land of a Thousand Hills (Halcyon), 6365 Halcyon Way, Alpharetta, GA 30005
   info_url: https://www.facebook.com/events/689631924934676/
