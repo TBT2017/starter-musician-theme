@@ -2,23 +2,23 @@
 #  date: 
 #  location: 
 #  info_url: 
-
-- name: Live at Center Street Tavern
-  date: "2020-08-08"
-  location: Center Street Tavern, 4381 Senator Russell Ave, Acworth, Georgia 30101
-  info_url: https://www.facebook.com/events/689631924934676/
-
-- name: Sunset Sessions
-  date: "2020-08-09"
-  location: Park Tavern, 500 10th St NE, Atlanta, Georgia 30309
-  info_url: https://www.parktavern.com/sunsetsessions
-  
-- name: Live at Broken Anchor Winery
-  date: "2020-08-28"
-  location: Broken Anchor Winery, 3335 Cobb Parkway NW Ste 930, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/3093148604109089/
-  
+    
 - name: Live at LOTH Halcyon
-  date: "2020-08-29"
-  location: Land of a Thousand Hills (Halcyon), 6365 Halcyon Way, Alpharetta, GA 30005
-  info_url: https://www.facebook.com/events/689631924934676/
+  date: "2020-09-19"
+  location: 6365 Halcyon Way, Alpharetta, GA 30005
+  info_url: https://www.facebook.com/events/2506585212964918
+
+- name: Live at Broken Anchor Winery
+  date: "2020-09-25"
+  location: 3335 Cobb Parkway NW Ste 930, Acworth, GA 30101
+  info_url: https://www.facebook.com/events/744951482719954
+  
+- name: Live at The Mill on Etowah
+  date: "2020-10-02"
+  location: 225 Reformation Pkwy Canton, GA 30114
+  info_url: https://www.facebook.com/events/231479558281525
+  
+- name: Live at Qualusi Vineyards
+  date: "2020-10-17"
+  location: 440 Blossom Trail Acworth, GA 30101
+  info_url: https://www.facebook.com/events/641644770106286
