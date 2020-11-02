@@ -2,21 +2,6 @@
 #  date: 
 #  location: 
 #  info_url: 
-    
-- name: Live at Qualusi Vineyards
-  date: "2020-10-17"
-  location: 440 Blossom Trail Acworth, GA 30101
-  info_url: https://www.facebook.com/events/641644770106286
-
-- name: Ecologie Vintage 10th Anniversary Party
-  date: "2020-10-25"
-  location: 2615 George Busbee Pkwy NW Kennesaw, GA 30144
-  info_url: https://www.facebook.com/events/2657721301147383
-  
-- name: Live at Broken Anchor Winery
-  date: "2020-10-30"
-  location: 3335 Cobb Parkway NW Ste 930 Acworth, GA 30101
-  info_url: https://www.facebook.com/events/2690054301323543
   
 - name: Live at Center Street Tavern
   date: "2020-11-06"
@@ -27,3 +12,8 @@
   date: "2020-12-04"
   location: 4637 South Main St Acworth, GA 30101
   info_url: https://www.facebook.com/events/2670950489826790
+
+- name: Live at Qualusi Vineyards
+  date: "2020-12-05"
+  location: 440 Blossom Trail Acworth, GA 30101
+  info_url: https://www.facebook.com/events/1053286651758863
