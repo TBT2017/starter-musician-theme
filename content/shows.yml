@@ -3,17 +3,52 @@
 #  location: 
 #  info_url: 
 
-- name: Land of a Thousand Hills - Halcyon
-  date: "2021-02-20"
-  location: 6330 Halcyon Way Suite 780, Alpharetta, GA 30005
-  info_url: https://www.facebook.com/events/759753411639709
+- name: Reformation Brewery
+  date: "2021-03-06"
+  location: 6105 Elm St, Woodstock, GA 30188
+  info_url: https://www.facebook.com/events/742994163020094
   
-- name: Broken Anchor Winery
-  date: "2021-02-26"
-  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/857650685035612
-
 - name: Red Top Brewhouse
   date: "2021-03-19"
   location: 4637 S Main St, Acworth, GA 30101
   info_url: https://www.facebook.com/events/430193158230819
+
+- name: Broken Anchor Winery
+  date: "2021-03-26"
+  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
+  info_url: 
+
+- name: Qualusi Vineyards
+  date: "2021-04-10"
+  location: 440 Blossom Trl, Acworth, GA 30101
+  info_url: 
+
+- name: The Mill on Etowah
+  date: "2021-04-16"
+  location: 225 Reformation Pkwy, Canton, GA 30114
+  info_url:
+  
+- name: Broken Anchor Winery
+  date: "2021-04-30"
+  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
+  info_url: 
+  
+- name: Red Top Brewhouse
+  date: "2021-05-14"
+  location: 4637 S Main St, Acworth, GA 30101
+  info_url: https://www.facebook.com/events/430193158230819
+  
+- name: Center Street Tavern
+  date: "2021-05-21"
+  location: 4381 Center St, Acworth, GA 30101
+  info_url: https://www.facebook.com/events/430193158230819
+  
+- name: Broken Anchor Winery
+  date: "2021-05-28"
+  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
+  info_url: 
+  
+- name: Qualusi Vineyards
+  date: "2021-06-12"
+  location: 440 Blossom Trl, Acworth, GA 30101
+  info_url: 
