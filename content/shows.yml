@@ -3,10 +3,15 @@
 #  location: 
 #  info_url: 
 
-- name: Reformation Brewery
-  date: "2021-03-06"
-  location: 6105 Elm St, Woodstock, GA 30188
-  info_url: https://www.facebook.com/events/742994163020094
+- name: The Third Door
+  date: "2021-03-12"
+  location: 131 Church St, Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/happenings/bluebirdtwo
+  
+- name: The Third Door
+  date: "2021-03-13"
+  location: 131 Church St, Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/happenings/bluebirdtwo-nawgm
   
 - name: Red Top Brewhouse
   date: "2021-03-19"
