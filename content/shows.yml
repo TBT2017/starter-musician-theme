@@ -3,16 +3,6 @@
 #  location: 
 #  info_url: 
 
-- name: The Third Door
-  date: "2021-03-12"
-  location: 131 Church St, Marietta, GA 30060
-  info_url: https://www.thethirddoor.net/happenings/bluebirdtwo
-  
-- name: The Third Door
-  date: "2021-03-13"
-  location: 131 Church St, Marietta, GA 30060
-  info_url: https://www.thethirddoor.net/happenings/bluebirdtwo-nawgm
-
 - name: Broken Anchor Winery
   date: "2021-03-26"
   location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
@@ -26,13 +16,18 @@
 - name: The Mill on Etowah
   date: "2021-04-16"
   location: 225 Reformation Pkwy, Canton, GA 30114
-  info_url:
+  info_url: https://www.facebook.com/events/2205399232926106
   
 - name: Broken Anchor Winery
   date: "2021-04-30"
   location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
   info_url: 
   
+- name: The Third Door
+  date: "2021-05-07"
+  location: 131 Church St, Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/happenings/bluebirdtwo-3tedf
+
 - name: Red Top Brewhouse
   date: "2021-05-12"
   location: 4637 S Main St, Acworth, GA 30101
