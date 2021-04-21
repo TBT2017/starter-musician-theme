@@ -1,6 +1,6 @@
 - title: Fine Feathers
   date: 2019-07-12
-  release_type: Album
+  release_type: Single
   image: "./images/finefeathers.jpg"
   links:
     - name: Spotify
@@ -10,7 +10,7 @@
       
 - title: Passerine
   date: 2018-10-19
-  release_type: Album
+  release_type: EP
   image: "./images/passerine.jpg"
   links:
     - name: Spotify
@@ -20,7 +20,7 @@
 
 - title: Lady Baltimore
   date: 2018-10-05
-  release_type: Album
+  release_type: Single
   image: "./images/ladybaltimore.jpg"
   links:
     - name: Spotify
