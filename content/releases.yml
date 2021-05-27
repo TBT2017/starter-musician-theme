@@ -8,23 +8,3 @@
     - name: Apple Music
       url: https://music.apple.com/us/album/fine-feathers-single/1470226461   
       
-- title: Passerine
-  date: 2018-10-19
-  release_type: EP
-  image: "./images/passerine.jpg"
-  links:
-    - name: Spotify
-      url: https://open.spotify.com/album/16Mj4rsBpfWL714H8zjRBa
-    - name: Apple Music
-      url: https://music.apple.com/us/album/passerine-ep/1437821433   
-
-- title: Lady Baltimore
-  date: 2018-10-05
-  release_type: Single
-  image: "./images/ladybaltimore.jpg"
-  links:
-    - name: Spotify
-      url: https://open.spotify.com/album/6hLKe70dBSKQg9f59ycag4
-    - name: Apple Music
-      url: https://music.apple.com/us/album/lady-baltimore-single/1437820495
-      
