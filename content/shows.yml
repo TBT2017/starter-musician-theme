@@ -2,28 +2,18 @@
 #  date: 
 #  location: 
 #  info_url: 
-  
-- name: The Third Door
-  date: "2021-09-03"
-  location: 131 Church St NW, Marietta, GA 30060-1601
-  info_url: https://www.facebook.com/events/519489596020609
-
-- name: Qualusi Vineyards
-  date: "2021-09-11"
-  location: 440 Blossom Trl, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/271228411202817
-
-- name: Broken Anchor Winery
-  date: "2021-09-24"
-  location: 3335 Cobb PKWY, Suite 930, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/546156496640470
-
-- name: Private Event (Book us for YOURS TODAY!)
-  date: "2021-11-06"
-  location: bookthebluebirdtwo@gmail.com
-  info_url: mailto:bookthebluebirdtwo@gmail.com
 
 - name: Qualusi Vineyards
   date: "2021-11-13"
   location: 440 Blossom Trl, Acworth, GA 30101
   info_url: https://www.facebook.com/events/247706513891181
+
+- name: Broken Anchor Winery
+  date: "2021-11-26"
+  location: 3335 Cobb PKWY, Suite 930, Acworth, GA 30101
+  info_url: https://www.facebook.com/events/560421801731630
+  
+- name: Red Hare Brewing
+  date: "2021-11-27"
+  location: 1998 Delk Industrial Boulevard Southeast Marietta, GA 30067
+  info_url: https://www.facebook.com/events/903127250326219
