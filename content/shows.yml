@@ -4,16 +4,47 @@
 #  info_url: 
 
 - name: Qualusi Vineyards
-  date: "2021-11-13"
+  date: "2022-01-08"
   location: 440 Blossom Trl, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/247706513891181
+  info_url: https://www.facebook.com/events/455717682660056
+
+- name: The Third Door
+  date: "2022-01-14"
+  location: 131 Church Street, Marietta, GA 30060
+  info_url: https://www.facebook.com/events/2293007694174775
+
+- name: The Cigar Cellar
+  date: "2022-01-22"
+  location: 2500 Cobb Pkwy NW Suite B3, Kennesaw, GA 30152
+  info_url: https://www.facebook.com/events/633127017805702
+
+- name: Steady Hand Beer Co
+  date: "2022-01-28"
+  location: 21611 Ellsworth Industrial Blvd NW UNIT F, Atlanta, GA 30318
+  info_url: https://www.facebook.com/events/459379412219506
+
+- name: The Cigar Cellar
+  date: "2022-02-05"
+  location: 2500 Cobb Pkwy NW Suite B3, Kennesaw, GA 30152
+  info_url: https://www.facebook.com/events/3043691289226963
+  
+- name: Steady Hand Beer Co
+  date: "2022-02-11"
+  location: 21611 Ellsworth Industrial Blvd NW UNIT F, Atlanta, GA 30318
+  info_url: https://www.facebook.com/events/459379412219506
+
+- name: Qualusi Vineyards
+  date: "2022-02-19"
+  location: 440 Blossom Trl, Acworth, GA 30101
+  info_url: https://www.facebook.com/events/618371256058714
 
 - name: Broken Anchor Winery
-  date: "2021-11-26"
+  date: "2022-02-26"
   location: 3335 Cobb PKWY, Suite 930, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/560421801731630
+  info_url: https://www.facebook.com/events/985068632218030
   
-- name: Red Hare Brewing
-  date: "2021-11-27"
-  location: 1998 Delk Industrial Boulevard Southeast Marietta, GA 30067
-  info_url: https://www.facebook.com/events/903127250326219
+- name: Qualusi Vineyards
+  date: "2022-04-09"
+  location: 440 Blossom Trl, Acworth, GA 30101
+  info_url: https://www.facebook.com/events/431286145402247
+
