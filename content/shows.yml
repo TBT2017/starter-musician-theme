@@ -3,43 +3,27 @@
 #  location: 
 #  info_url: 
 
+- name: The Third Door
+  date: "2022-07-04"
+  location: 131 Church St Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/
 
 - name: The Cigar Cellar
-  date: "2022-03-25"
+  date: "2022-07-09"
   location: 2500 Cobb Pkwy NW Suite B3, Kennesaw, GA 30152
-  info_url: 
+  info_url: https://www.cigarcellar.net/
 
-- name: Qualusi Vineyards
-  date: "2022-04-09"
-  location: 440 Blossom Trl, Acworth, GA 30101
-  info_url: https://www.facebook.com/events/431286145402247
-
+- name: Broken Anchor Winery
+  date: "2022-07-16"
+  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
+  info_url: https://www.brokenanchorwine.com/
+  
 - name: The Cigar Cellar
-  date: "2022-04-16"
+  date: "2022-07-22"
   location: 2500 Cobb Pkwy NW Suite B3, Kennesaw, GA 30152
-  info_url: 
-
-- name: Red Hare Brewing Co
-  date: "2022-04-23"
-  location: 1998 Delk Industrial Blvd SE, Marietta, GA 30067
-  info_url: 
+  info_url: https://www.cigarcellar.net/
   
 - name: The Third Door
-  date: "2022-04-23"
+  date: "2022-07-23"
   location: 131 Church St Marietta, GA 30060
-  info_url: 
-  
-- name: Private Event (Book us for yours today!)
-  date: "2022-04-30"
-  location: Private Event
-  info_url: 
-
-- name: Steady Hand Beer Co
-  date: "2022-05-28"
-  location: 21611 Ellsworth Industrial Blvd NW UNIT F, Atlanta, GA 30318
-  info_url: 
-  
-- name: Qualusi Vineyards
-  date: "2022-06-04"
-  location: 440 Blossom Trl, Acworth, GA 30101
-  info_url: 
+  info_url: https://www.thethirddoor.net/
