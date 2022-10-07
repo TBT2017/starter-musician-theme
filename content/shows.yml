@@ -3,27 +3,12 @@
 #  location: 
 #  info_url: 
 
-- name: The Third Door
-  date: "2022-07-04"
-  location: 131 Church St Marietta, GA 30060
-  info_url: https://www.thethirddoor.net/
-
-- name: The Cigar Cellar
-  date: "2022-07-09"
-  location: 2500 Cobb Pkwy NW Suite B3, Kennesaw, GA 30152
-  info_url: https://www.cigarcellar.net/
-
 - name: Broken Anchor Winery
-  date: "2022-07-16"
+  date: "2022-10-08"
   location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
   info_url: https://www.brokenanchorwine.com/
   
-- name: The Cigar Cellar
-  date: "2022-07-22"
-  location: 2500 Cobb Pkwy NW Suite B3, Kennesaw, GA 30152
-  info_url: https://www.cigarcellar.net/
-  
 - name: The Third Door
-  date: "2022-07-23"
+  date: "2022-10-15"
   location: 131 Church St Marietta, GA 30060
   info_url: https://www.thethirddoor.net/
