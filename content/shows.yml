@@ -2,13 +2,57 @@
 #  date: 
 #  location: 
 #  info_url: 
-
+  
+- name: The Third Door
+  date: "2023-06-03"
+  location: 131 Church St Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/
+  
 - name: Broken Anchor Winery
-  date: "2022-10-08"
+  date: "2022-06-24"
   location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
   info_url: https://www.brokenanchorwine.com/
   
-- name: The Third Door
-  date: "2022-10-15"
+- name: Qualusi Vineyards
+  date: "2022-07-01"
+  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
+  info_url: https://www.brokenanchorwine.com/
+
+- name: The Third Door (Seth Solo)
+  date: "2023-07-27"
   location: 131 Church St Marietta, GA 30060
   info_url: https://www.thethirddoor.net/
+  
+- name: The Third Door
+  date: "2023-08-05"
+  location: 131 Church St Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/
+  
+- name: Qualusi Vineyards
+  date: "2022-08-19"
+  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
+  info_url: https://www.brokenanchorwine.com/
+  
+- name: The Third Door (Seth Solo)
+  date: "2023-08-24"
+  location: 131 Church St Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/
+  
+- name: Broken Anchor Winery
+  date: "2022-08-26"
+  location: 3335 Cobb Pkwy NW Suite 930, Acworth, GA 30101
+  info_url: https://www.brokenanchorwine.com/
+  
+- name: The Third Door (Seth Solo)
+  date: "2023-09-07"
+  location: 131 Church St Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/
+  
+- name: The Third Door
+  date: "2023-09-23"
+  location: 131 Church St Marietta, GA 30060
+  info_url: https://www.thethirddoor.net/
+  
+  
+  
+  
